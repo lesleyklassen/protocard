@@ -127,6 +127,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+protocard-env/
+
 
 # Spyder project settings
 .spyderproject
